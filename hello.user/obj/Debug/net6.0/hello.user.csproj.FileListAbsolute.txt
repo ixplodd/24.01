@@ -1,0 +1,15 @@
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\bin\Debug\net6.0\hello.user.exe
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\bin\Debug\net6.0\hello.user.deps.json
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\bin\Debug\net6.0\hello.user.runtimeconfig.json
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\bin\Debug\net6.0\hello.user.dll
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\bin\Debug\net6.0\hello.user.pdb
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.csproj.AssemblyReference.cache
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.AssemblyInfoInputs.cache
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.AssemblyInfo.cs
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.csproj.CoreCompileInputs.cache
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.dll
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\refint\hello.user.dll
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.pdb
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\hello.user.genruntimeconfig.cache
+C:\Users\egors\OneDrive\Documents\Projects\лекция 24.01\hello.user\obj\Debug\net6.0\ref\hello.user.dll
